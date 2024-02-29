@@ -1,0 +1,37 @@
+PRIMITIVE DATATYPES
+
+=====  ::: 01:  int
+
+Range(unsigned) = 0 to 2 power 32 - 1
+Range(signed) = -2 power 31 to 2 power 31 -1
+
+MSB (Most Significant Bit) 
+If MSB is 1 its negetive 
+If MSB is 0 then its positive
+
+
+
+
+===== ::: 02:  float 
+size = 4 bytes
+upto 7 decimal digits
+
+
+in case or more than 7 decimal digits we use data type (Double)
+==== ::: 03: double 
+size = 8 bytes
+upto 15 decimal digits
+
+
+
+
+===== ::: char 
+size = 1 byte
+ASSCI code againt each character
+convert ASSCI to Binary to store
+ASSCI ( American Standerd )
+
+
+
+=====::: bool 
+size = 1 byte

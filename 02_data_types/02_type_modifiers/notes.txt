@@ -1,0 +1,7 @@
+***  TYPE MODIFIERS  ***
+
+01: signed => 4 bytes
+02: unsigned => 4 bytes
+03: long => 8 bytes
+04: short => 2 Bytes
+

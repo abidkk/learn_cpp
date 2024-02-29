@@ -1,0 +1,45 @@
+Content:
+=> Constant / Variables
+=> bytes/ bits
+=> Data Types
+
+
+
+===== Bits and Bytes =====
+
+=> 1 Bytes is equal to 8 Bits
+=> numeric value contains 4 Byte (9)
+=> other character contains 1 Byte
+
+
+
+
+===== Data Types =====
+
+== 01 : Primitive Data Types:
+=> integer  ( 10, 5, 20)
+=> float ( 2.4, 10.5)
+=> Boolean ( true / false  or 0, 1)
+=> character (A,a, b, @, $)
+
+
+
+== 02 : Derived Data Types:
+=> Function
+=> Array
+=> Pointer
+=> Reference
+
+
+
+== 03: User defined data types:
+=> Class
+=> Structure
+=> Union
+=> Enum
+
+
+
+
+
+
